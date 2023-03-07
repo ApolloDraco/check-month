@@ -1,7 +1,7 @@
 using static System.Console;
 using System;
 
-class CheckMonth2
+class CheckMonth
 {
 static void Main()
 {
